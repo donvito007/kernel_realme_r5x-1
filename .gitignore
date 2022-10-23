@@ -135,6 +135,5 @@ Android.bp
 AnyKernel/
 out/
 clang/
-los-4.9-32/
-los-4.9-64/
 r5x.sh
+log.txt
